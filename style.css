@@ -1,0 +1,23 @@
+h1 {
+	text-align: center;
+	margin-bottom: 50px;
+}
+h1 span {
+	font-weight: 900;
+	text-transform: uppercase;
+}
+body {
+	font-family: san-serif;
+}
+.container {
+	width: 500px;
+	margin: 0 auto;
+}
+.game-area {
+	/* border-bottom: 2px solid #000;
+	border-right: 2px solid #000;
+	border-left: 2px solid #000; */
+	border: solid #000;
+	border-width: 0 2px 6px 2px;
+	display: block;
+}
